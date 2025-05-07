@@ -3,7 +3,7 @@ My name is Lisa Zumana, a Capetonian student, currently studying 3rd year toward
 ## Skills/ Languages I know/ familiar with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,django,spring,vue,react,figma,raspberrypi,mysql,sqlite)](https://skillicons.dev)
 ## What I'm still learning:
-[![My Skills](https://skillicons.dev/icons?i=c++,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c#,angular)](https://skillicons.dev)
 ## The IDEs/ tools I'm familiar with are:
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,webstorm,netbeans)](https://skillicons.dev)
 ## Contact (How to reach me):
