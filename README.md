@@ -4,11 +4,11 @@ My name is Lisa Zumana, a Capetonian student, currently studying 3rd year toward
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,figma)](https://skillicons.dev)
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,python,django,spring,vue,react,figma,raspberrypi,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,django,spring,raspberrypi,mysql,sqlite)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-## What I'm still learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c#,angular,mongoDB)](https://skillicons.dev)
+## What I'm still learning (haven't mastered yet):
+[![My Skills](https://skillicons.dev/icons?i=cpp,c#,angular,mongodb,nosql)](https://skillicons.dev)
 ## The IDEs/ tools I'm familiar with are:
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,webstorm,netbeans)](https://skillicons.dev)
 ## Contact (How to reach me):
