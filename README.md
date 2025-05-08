@@ -7,7 +7,12 @@ My name is Lisa Zumana, a Capetonian student, currently studying 3rd year toward
 ## The IDEs/ tools I'm familiar with are:
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,webstorm,netbeans)](https://skillicons.dev)
 ## Contact (How to reach me):
-If you want to speak about business, mail me at zumanalisa@gmail.com or phone me on 062 840 5103. You can also follow me on Instagram [@lisa_zumana03](https://www.instagram.com/lisa_zumana03 "Instagram") and connect with me on LinkedIn.
+If you want to speak about business queries:
+- Email: zumanalisa@gmail.com
+- Contact Number: 062 840 5103.
+### Follow me on these social media platforms:
+- Instagram [@lisa_zumana03](https://www.instagram.com/lisa_zumana03 "Instagram")
+- LinkedIn [Lisa Zumana](https://www.linkedin.com/in/lisakhanya-zumana-a065ab1a1/).
 ### My favourite games:
 - FIFA
 - Grand Theft Auto (V & San Andreas)
