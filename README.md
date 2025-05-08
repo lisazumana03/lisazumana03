@@ -19,3 +19,6 @@ If you want to speak about business queries:
 - Red Dead Redemption (I and II)
 - The Sims (1, 2, 3, 4)
 - Call OF Duty
+## My career goals:
+- A full-stack developer.
+- A professional gamer.
