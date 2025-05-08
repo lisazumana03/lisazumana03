@@ -10,7 +10,7 @@ My name is Lisa Zumana, a Capetonian student, currently studying 3rd year toward
 ## Gaming (still learning):
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
 ## What I'm still learning (haven't mastered yet):
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,angular,mongodb,spring,django,php,unity,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,angular,mongodb,spring,django,php,unity,unreal,arduino)](https://skillicons.dev)
 ## The IDEs/ tools I'm familiar with are:
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,webstorm,netbeans)](https://skillicons.dev)
 ## Contact (How to reach me):
