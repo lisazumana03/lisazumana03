@@ -21,4 +21,4 @@ If you want to speak about business queries:
 - Call OF Duty
 ## My career goals:
 - A full-stack developer.
-- A professional gamer.
+- A professional gamer. (if being a developer doesn't work)
